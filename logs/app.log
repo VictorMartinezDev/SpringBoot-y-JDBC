@@ -1,0 +1,105 @@
+2025-12-17T16:30:16.391-06:00  INFO 14956 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Starting SpringMysqlApplication using Java 25.0.1 with PID 14956 (C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql\target\classes started by sophi in C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql)
+2025-12-17T16:30:16.394-06:00  INFO 14956 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : The following 1 profile is active: "prod"
+2025-12-17T16:30:17.182-06:00  INFO 14956 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-12-17T16:30:17.197-06:00  INFO 14956 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2025-12-17T16:30:17.608-06:00  INFO 14956 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-12-17T16:30:17.624-06:00  INFO 14956 --- [springMysql] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-12-17T16:30:17.625-06:00  INFO 14956 --- [springMysql] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-12-17T16:30:17.674-06:00  INFO 14956 --- [springMysql] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1236 ms
+2025-12-17T16:30:18.281-06:00  INFO 14956 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-12-17T16:30:18.781-06:00  INFO 14956 --- [springMysql] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a70575
+2025-12-17T16:30:18.782-06:00  INFO 14956 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-12-17T16:30:18.942-06:00  INFO 14956 --- [springMysql] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-12-17T16:30:19.014-06:00  INFO 14956 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-12-17T16:30:19.021-06:00  INFO 14956 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Started SpringMysqlApplication in 3.054 seconds (process running for 3.684)
+2025-12-17T16:30:19.616-06:00  INFO 14956 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-12-17T16:30:19.616-06:00  INFO 14956 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-12-17T16:30:19.618-06:00  INFO 14956 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-12-17T16:35:36.768-06:00  INFO 14956 --- [springMysql] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-17T16:35:36.795-06:00  INFO 14956 --- [springMysql] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-12-17T16:35:36.815-06:00  INFO 14956 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-12-17T16:35:36.833-06:00  INFO 14956 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-12-17T16:35:39.413-06:00  INFO 21028 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Starting SpringMysqlApplication using Java 25.0.1 with PID 21028 (C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql\target\classes started by sophi in C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql)
+2025-12-17T16:35:39.414-06:00  INFO 21028 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : The following 1 profile is active: "prod"
+2025-12-17T16:35:40.089-06:00  INFO 21028 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-12-17T16:35:40.108-06:00  INFO 21028 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2025-12-17T16:35:40.514-06:00  INFO 21028 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-12-17T16:35:40.528-06:00  INFO 21028 --- [springMysql] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-12-17T16:35:40.530-06:00  INFO 21028 --- [springMysql] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-12-17T16:35:40.580-06:00  INFO 21028 --- [springMysql] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1126 ms
+2025-12-17T16:35:41.100-06:00  INFO 21028 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-12-17T16:35:41.577-06:00  INFO 21028 --- [springMysql] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@18483b8b
+2025-12-17T16:35:41.578-06:00  INFO 21028 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-12-17T16:35:41.940-06:00  INFO 21028 --- [springMysql] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-12-17T16:35:42.007-06:00  INFO 21028 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-12-17T16:35:42.014-06:00  INFO 21028 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Started SpringMysqlApplication in 3.007 seconds (process running for 3.782)
+2025-12-17T16:35:42.555-06:00  INFO 21028 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-12-17T16:35:42.556-06:00  INFO 21028 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-12-17T16:35:42.557-06:00  INFO 21028 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-12-17T16:37:40.318-06:00  INFO 21028 --- [springMysql] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-17T16:37:40.326-06:00  INFO 21028 --- [springMysql] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-12-17T16:37:40.330-06:00  INFO 21028 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-12-17T16:37:40.336-06:00  INFO 21028 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-12-17T17:08:45.768-06:00  INFO 11024 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Starting SpringMysqlApplication using Java 25.0.1 with PID 11024 (C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql\target\classes started by sophi in C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql)
+2025-12-17T17:08:45.771-06:00  INFO 11024 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : The following 1 profile is active: "prod"
+2025-12-17T17:08:46.571-06:00  INFO 11024 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-12-17T17:08:46.590-06:00  INFO 11024 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2025-12-17T17:08:47.037-06:00  INFO 11024 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-12-17T17:08:47.052-06:00  INFO 11024 --- [springMysql] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-12-17T17:08:47.052-06:00  INFO 11024 --- [springMysql] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-12-17T17:08:47.103-06:00  INFO 11024 --- [springMysql] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1268 ms
+2025-12-17T17:08:47.714-06:00  INFO 11024 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-12-17T17:08:48.308-06:00  INFO 11024 --- [springMysql] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2804b13f
+2025-12-17T17:08:48.309-06:00  INFO 11024 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-12-17T17:08:48.464-06:00  INFO 11024 --- [springMysql] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-12-17T17:08:48.547-06:00  INFO 11024 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-12-17T17:08:48.554-06:00  INFO 11024 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Started SpringMysqlApplication in 3.26 seconds (process running for 3.982)
+2025-12-17T17:08:49.266-06:00  INFO 11024 --- [springMysql] [RMI TCP Connection(4)-192.168.1.10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-12-17T17:08:49.266-06:00  INFO 11024 --- [springMysql] [RMI TCP Connection(4)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-12-17T17:08:49.268-06:00  INFO 11024 --- [springMysql] [RMI TCP Connection(4)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-12-17T17:10:13.394-06:00  INFO 11024 --- [springMysql] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-17T17:10:13.403-06:00  INFO 11024 --- [springMysql] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-12-17T17:10:13.411-06:00  INFO 11024 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-12-17T17:10:13.418-06:00  INFO 11024 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-12-17T17:10:24.529-06:00  INFO 15016 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Starting SpringMysqlApplication using Java 25.0.1 with PID 15016 (C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql\target\classes started by sophi in C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql)
+2025-12-17T17:10:24.533-06:00  INFO 15016 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : The following 1 profile is active: "prod"
+2025-12-17T17:10:25.274-06:00  INFO 15016 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-12-17T17:10:25.293-06:00  INFO 15016 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12 ms. Found 0 JDBC repository interfaces.
+2025-12-17T17:10:25.700-06:00  INFO 15016 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-12-17T17:10:25.714-06:00  INFO 15016 --- [springMysql] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-12-17T17:10:25.714-06:00  INFO 15016 --- [springMysql] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-12-17T17:10:25.765-06:00  INFO 15016 --- [springMysql] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1188 ms
+2025-12-17T17:10:26.299-06:00  INFO 15016 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-12-17T17:10:26.702-06:00  INFO 15016 --- [springMysql] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@527d48db
+2025-12-17T17:10:26.703-06:00  INFO 15016 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-12-17T17:10:26.846-06:00  INFO 15016 --- [springMysql] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-12-17T17:10:26.920-06:00  INFO 15016 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-12-17T17:10:26.928-06:00  INFO 15016 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Started SpringMysqlApplication in 2.792 seconds (process running for 3.364)
+2025-12-17T17:10:27.318-06:00  INFO 15016 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-12-17T17:10:27.318-06:00  INFO 15016 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-12-17T17:10:27.320-06:00  INFO 15016 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-12-17T17:11:41.451-06:00  INFO 15016 --- [springMysql] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-17T17:11:41.455-06:00  INFO 15016 --- [springMysql] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-12-17T17:11:41.460-06:00  INFO 15016 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-12-17T17:11:41.465-06:00  INFO 15016 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-12-17T17:15:41.601-06:00  INFO 24124 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Starting SpringMysqlApplication using Java 25.0.1 with PID 24124 (C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql\target\classes started by sophi in C:\Users\sophi\Downloads\Files\Files\home\developer\Desktop\StudentWork\setup\Lab02.1\springMysql)
+2025-12-17T17:15:41.603-06:00  INFO 24124 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : The following 1 profile is active: "prod"
+2025-12-17T17:15:42.322-06:00  INFO 24124 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2025-12-17T17:15:42.339-06:00  INFO 24124 --- [springMysql] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 0 JDBC repository interfaces.
+2025-12-17T17:15:42.779-06:00  INFO 24124 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-12-17T17:15:42.795-06:00  INFO 24124 --- [springMysql] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-12-17T17:15:42.795-06:00  INFO 24124 --- [springMysql] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.14]
+2025-12-17T17:15:42.845-06:00  INFO 24124 --- [springMysql] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1199 ms
+2025-12-17T17:15:43.451-06:00  INFO 24124 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-12-17T17:15:44.158-06:00  INFO 24124 --- [springMysql] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17003497
+2025-12-17T17:15:44.158-06:00  INFO 24124 --- [springMysql] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-12-17T17:15:44.460-06:00  INFO 24124 --- [springMysql] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2025-12-17T17:15:44.626-06:00  INFO 24124 --- [springMysql] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-12-17T17:15:44.645-06:00  INFO 24124 --- [springMysql] [main] c.m.springmysql.SpringMysqlApplication   : Started SpringMysqlApplication in 3.464 seconds (process running for 4.159)
+2025-12-17T17:15:44.943-06:00  INFO 24124 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-12-17T17:15:44.943-06:00  INFO 24124 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-12-17T17:15:44.945-06:00  INFO 24124 --- [springMysql] [RMI TCP Connection(2)-192.168.1.10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-12-17T17:25:14.512-06:00  INFO 24124 --- [springMysql] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-17T17:25:14.548-06:00  INFO 24124 --- [springMysql] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2025-12-17T17:25:14.586-06:00  INFO 24124 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-12-17T17:25:14.613-06:00  INFO 24124 --- [springMysql] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
