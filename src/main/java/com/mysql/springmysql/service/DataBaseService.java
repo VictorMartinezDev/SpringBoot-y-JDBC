@@ -1,8 +1,7 @@
-package com.mysql.springmysql;
+package com.mysql.springmysql.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import javax.sql.DataSource;
 import java.sql.Connection;
